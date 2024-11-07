@@ -10,7 +10,9 @@ Responsive Design: The interface adapts well across different screen sizes, prov
 Technologies Used:
 HTML: Provides the structure of the web application, ensuring content is displayed in a clean, readable format.
 CSS: Styles the web pages, making the app visually appealing with a user-friendly design and responsive layout.
-JavaScript: Powers the functionality of the app, including validating user input, interacting with the Leetcode API, and updating the UI dynamically.
+JavaScript: Powers the functionality of the app, including validating user input, interacting with the Leetcode API, and updating the UI dynamically. 
+
+ 
 How It Works:
 The app uses the Leetcode GraphQL API to fetch data related to a user's solved problems and submissions.
 It fetches statistics like the number of easy, medium, and hard problems solved and displays them using progress circles.
